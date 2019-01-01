@@ -1,2 +1,2 @@
 # My-Personal-Website
-My brand new personal website. IwanSiauw.com
+Please check out my website ---> IwanSiauw.com
