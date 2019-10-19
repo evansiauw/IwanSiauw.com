@@ -2,7 +2,6 @@
 My brand new personal website!!!
 
 ## Screenshot
-<img src="https://github.com/evansiauw/BIC/blob/master/IwanWeb.gif" width="200" height="400">
-
+![](IwanWeb.gif){:height="200px" width="400px"}
 ## Authors
 Evansiauw
