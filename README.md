@@ -1,13 +1,8 @@
 # IwanSiauw.com
-My brand new personal website!!! IwanSiauw.com
-
-
-## Description
-
-
+My brand new personal website!!!
 
 ## Screenshot
-
+![](IwanWeb.gif)
 
 ## Authors
 Evansiauw
